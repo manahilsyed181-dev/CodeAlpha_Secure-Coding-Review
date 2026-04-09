@@ -1,0 +1,15 @@
+🔐 Secure Coding Review
+📌 Description
+
+This project performs a basic security review of code to find vulnerabilities and improve safety.
+
+🎯 Objectives
+Analyze code for security issues
+Use static analysis tools
+Suggest fixes and best practices
+🛠️ Tools
+Static analyzers (e.g., Bandit, SonarQube)
+Manual code review
+✅ Outcome
+
+Identified vulnerabilities and provided recommendations for secure coding.
